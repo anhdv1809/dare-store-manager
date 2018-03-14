@@ -1,12 +1,12 @@
-package com.java.darestore.darestoreifewebmanagement;
+package com.java.darestore.webmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DarestoreIfeWebManagementApplication {
+public class WebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DarestoreIfeWebManagementApplication.class, args);
+		SpringApplication.run(WebApplication.class, args);
 	}
 }

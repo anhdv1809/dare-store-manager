@@ -1,4 +1,4 @@
-package com.java.darestore.darestoreifewebmanagement;
+package com.java.darestore.webmanagementtest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DarestoreIfeWebManagementApplicationTests {
+public class ApplicationTests {
 
 	@Test
 	public void contextLoads() {
